@@ -21,9 +21,11 @@ In the box titled "Online Themes", paste in the raw github links for the feature
 ### Remove Nitro Shop From Friends List
 
 Before:
+
 ![The top of the default friends list.](./assets/friends-list-with-nitro.png)
 
 After:
+
 ![The top of the friends list with the "Friends", "Nitro", and "Shop" buttons removed.](./assets/friends-list-no-nitro.png)
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
@@ -33,9 +35,11 @@ To enable, paste the following link into the "Online Themes" box in the Vencord 
 ### Remove Server Boosts From Channel List
 
 Before:
+
 ![The top of a default channel list.](./assets/channel-list-with-server-boosts.png)
 
 After:
+
 ![The top of a channel list with the "Server Boosts" button removed.](./assets/channel-list-no-server-boosts.png)
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
@@ -45,9 +49,11 @@ To enable, paste the following link into the "Online Themes" box in the Vencord 
 ### Remove Server Boosts Progress Bar
 
 Before:
+
 ![The top of a default channel list with a server boosts bar.](./assets/channel-list-with-server-boosts-bar.png)
 
 After:
+
 ![The top of a channel list with with a removed server boosts bar.](./assets/channel-list-no-server-boosts-bar.png)
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
@@ -57,9 +63,11 @@ To enable, paste the following link into the "Online Themes" box in the Vencord 
 ### Remove Nitro From Message Bar
 
 Before:
+
 ![The default message bar.](./assets/msg-bar-vanilla.png)
 
 After:
+
 ![The message bar with the nitro gift button removed.](./assets/msg-bar-no-nitro.png)
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
@@ -69,9 +77,11 @@ To enable, paste the following link into the "Online Themes" box in the Vencord 
 ### Remove GIFs From Message Bar
 
 Before:
+
 ![The default message bar.](./assets/msg-bar-vanilla.png)
 
 After:
+
 ![The message bar with the GIF button removed.](./assets/msg-bar-no-gif.png)
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
@@ -81,9 +91,11 @@ To enable, paste the following link into the "Online Themes" box in the Vencord 
 ### Remove Stickers From Message Bar
 
 Before:
+
 ![The default message bar.](./assets/msg-bar-vanilla.png)
 
 After:
+
 ![The message bar with the Sticker button removed.](./assets/msg-bar-no-sticker.png)
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
@@ -93,9 +105,11 @@ To enable, paste the following link into the "Online Themes" box in the Vencord 
 ### Remove Emotes From Message Bar
 
 Before:
+
 ![The default message bar.](./assets/msg-bar-vanilla.png)
 
 After:
+
 ![The message bar with the Emote button removed.](./assets/msg-bar-no-emote.png)
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
@@ -105,9 +119,11 @@ To enable, paste the following link into the "Online Themes" box in the Vencord 
 ### Remove App Games From Message Bar
 
 Before:
+
 ![The default message bar.](./assets/msg-bar-vanilla.png)
 
 After:
+
 ![The message bar with the App Games button removed.](./assets/msg-bar-no-app-games.png)
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
@@ -117,9 +133,11 @@ To enable, paste the following link into the "Online Themes" box in the Vencord 
 ### Fix Message Bar Padding
 
 Before:
+
 ![The default message bar next to the mute, deafen, and settings buttons in the neighbouring panel for reference.](./assets/msg-bar-with-padding.png)
 
 After:
+
 ![The lowered message bar next to the mute, deafen, and settings buttons in the neighbouring panel for reference.](./assets/msg-bar-no-padding.png)
 
 This does make the "[user] is typing..." text clip into the message bar.
