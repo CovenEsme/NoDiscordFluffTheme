@@ -30,7 +30,9 @@ After:
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
 
-`https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveNitroShopFromFriendsList.css`
+```
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveNitroShopFromFriendsList.css
+```
 
 ### Remove Server Boosts From Channel List
 
@@ -44,7 +46,9 @@ After:
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
 
-`https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveServerBoostsFromChannelList.css`
+```
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveServerBoostsFromChannelList.css
+```
 
 ### Remove Server Boosts Progress Bar
 
@@ -58,7 +62,9 @@ After:
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
 
-`https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveServerBoostsProgressBar.css`
+```
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveServerBoostsProgressBar.css
+```
 
 ### Remove Nitro From Message Bar
 
@@ -72,7 +78,9 @@ After:
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
 
-`https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveNitroFromMsgBar.css`
+```
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveNitroFromMsgBar.css
+```
 
 ### Remove GIFs From Message Bar
 
@@ -86,7 +94,9 @@ After:
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
 
-`https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveGifsFromMsgBar.css`
+```
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveGifsFromMsgBar.css
+```
 
 ### Remove Stickers From Message Bar
 
@@ -100,7 +110,9 @@ After:
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
 
-`https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveStickersFromMsgBar.css`
+```
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveStickersFromMsgBar.css
+```
 
 ### Remove Emotes From Message Bar
 
@@ -114,7 +126,9 @@ After:
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
 
-`https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveEmotesFromMsgBar.css`
+```
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveEmotesFromMsgBar.css
+```
 
 ### Remove App Games From Message Bar
 
@@ -128,7 +142,9 @@ After:
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
 
-`https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveAppGamesFromMsgBar.css`
+```
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveAppGamesFromMsgBar.css
+```
 
 ### Fix Message Bar Padding
 
@@ -144,4 +160,6 @@ This does make the "[user] is typing..." text clip into the message bar.
 
 To enable, paste the following link into the "Online Themes" box in the Vencord "Themes" settings.
 
-`https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/FixMsgBarPadding.css`
+```
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/FixMsgBarPadding.css
+```
