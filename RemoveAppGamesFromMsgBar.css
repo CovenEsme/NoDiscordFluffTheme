@@ -1,0 +1,5 @@
+/* Remove Apps button in msg bar */
+div[class="channelAppLauncher_e6e74f"]
+{
+    display: none !important;
+}

@@ -1,0 +1,5 @@
+/* Remove Server Boosts from channel list */
+div[class="containerDefault_c69b6d wrapper__2ea32 container__877f0"]
+{
+    display: none !important;
+}

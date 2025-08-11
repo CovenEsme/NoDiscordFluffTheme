@@ -1,0 +1,5 @@
+/* Remove extra padding on msg bar causing it to be weirdly raised */
+div[class="channelBottomBarArea_f75fb0"]
+{
+    --custom-chat-input-margin-bottom: 8px;
+}

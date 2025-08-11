@@ -1,0 +1,9 @@
+/* Remove Friends/Nitro/Shop button from top of DM list */
+/* Removes the Friends button as well because, once the other
+   buttons are gone, there's no reason to keep it as the
+   Friends view is the default */
+li[class="channel__972a0 container_e45859"],
+div[class="sectionDivider__35e86"]
+{
+    display: none !important;
+}

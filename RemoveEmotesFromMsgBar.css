@@ -1,0 +1,5 @@
+/* Removes the Emote button from the msg bar */
+div[aria-label="Select emoji"]
+{
+    display: none !important;
+}

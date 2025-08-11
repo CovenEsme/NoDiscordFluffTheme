@@ -1,0 +1,5 @@
+/* Remove Boosts progress bar */
+div[class="container__0d0f9 containerWithMargin__0d0f9"]
+{
+    display: none !important;
+}

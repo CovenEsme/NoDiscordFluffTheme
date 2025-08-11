@@ -1,0 +1,5 @@
+/* Removes the Sticker button from the msg bar */
+div[aria-label="Open sticker picker"]
+{
+    display: none !important;
+}

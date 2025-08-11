@@ -1,0 +1,5 @@
+/* Remove Nitro button in msg bar */
+div[aria-label="Send a gift"]
+{
+  display: none !important;
+}

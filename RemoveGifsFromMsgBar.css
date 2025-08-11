@@ -1,0 +1,5 @@
+/* Removes the GIF button from the msg bar */
+div[aria-label="Open GIF picker"]
+{
+    display: none !important;
+}
