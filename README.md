@@ -16,6 +16,29 @@ On the Themes page, navigate to the "Online Themes" tab at the top of the screen
 
 In the box titled "Online Themes", paste in the raw github links for the features you would like to enable.
 
+## Cheat Sheet
+
+```
+/* Remove Nitro Shop From Friends List */
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveNitroShopFromFriendsList.css
+/* Remove Server Boosts From Channel List */
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveServerBoostsFromChannelList.css
+/* Remove Server Boosts Progress Bar */
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveServerBoostsProgressBar.css
+/* Remove Nitro From Message Bar */
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveNitroFromMsgBar.css
+/* Remove GIFs From Message Bar */
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveGifsFromMsgBar.css
+/* Remove Stickers From Message Bar */
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveStickersFromMsgBar.css
+/* Remove Emotes From Message Bar */
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveEmotesFromMsgBar.css
+/* Remove App Games From Message Bar */
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/RemoveAppGamesFromMsgBar.css
+/* Fix Message Bar Padding */
+https://raw.githubusercontent.com/CovenEsme/NoDiscordFluffTheme/refs/heads/main/FixMsgBarPadding.css
+```
+
 ## Available Features
 
 ### Remove Nitro Shop From Friends List
